@@ -1,2 +1,0 @@
-# mms
-money management system
